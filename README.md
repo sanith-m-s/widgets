@@ -1,4 +1,4 @@
-# introduction_to_widgets
+# widgets
 
 A new Flutter project.
 
